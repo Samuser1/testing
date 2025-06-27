@@ -1,0 +1,955 @@
+[
+  {
+    "full_transcript": [
+      {
+        "user_id": "75c2f427-e869-48b7-9e0c-7fecf2600149",
+        "project_id": "3a3c6d81-4cbd-4a5b-9a3a-82a2e89d7a6b",
+        "research_id": "f2d67ea5-5c2c-468a-95ad-1a7d5746a80f",
+        "persona_id": "001",
+        "name": "Sabine Müller",
+        "age": "45",
+        "profession": "Cafe Owner",
+        "transcripts": [
+          {
+            "transcriptId": "tran001",
+            "question": "Tell me about how you currently handle procurement for your café — who do you order from, and how often?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I try to keep it simple, but there's so much to juggle.",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "I usually order from a couple of local suppliers and one online service. It's about twice a week.",
+                  "feeling": {
+                    "label": "calm",
+                    "intensity": 2
+                  }
+                },
+                {
+                  "thought": "But sometimes I wonder if I should be exploring more options.",
+                  "feeling": {
+                    "label": "anxiety",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Well, I try to keep it simple. I order from a couple of local suppliers and one online really often, about twice a week. It works, but sometimes I feel like I’m just scratching the surface — should I be looking for something better or different? It can get a bit overwhelming."
+            }
+          },
+          {
+            "transcriptId": "tran002",
+            "question": "How many different suppliers or channels do you typically use to order beverages like plant-based milks?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "It really can pile up quickly if I’m not careful.",
+                  "feeling": {
+                    "label": "overwhelm",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "I’m using around three main suppliers for milks, but I sometimes feel like I lose track.",
+                  "feeling": {
+                    "label": "confusion",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "Ugh, is this way I should be going? What if I miss something important?",
+                  "feeling": {
+                    "label": "doubt",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I’m using about three main suppliers for my plant-based milks. It feels like a lot sometimes, and I really want to make sure I’m not missing any better options. I get worried that managing them is going to pile up on me."
+            }
+          },
+          {
+            "transcriptId": "tran003",
+            "question": "At what point does managing multiple procurement channels become too much? What’s your personal limit?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "When I start to forget who supplies what, that’s my cue.",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "It’s tough because I want variety, but not at the cost of losing control.",
+                  "feeling": {
+                    "label": "conflicted",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "Can I keep doing this? Will it wear me down?",
+                  "feeling": {
+                    "label": "concern",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Honestly, when I start to forget who supplies what, that’s my cue to stop. I want to keep things interesting, but I don’t want to lose control over it all. It can be hard to juggle everything and I do worry it will grind me down."
+            }
+          },
+          {
+            "transcriptId": "tran004",
+            "question": "Which specific suppliers or platforms do you currently use to buy plant-based milks like Alpro? Why them?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Alpro is one I trust — it’s popular with my customers.",
+                  "feeling": {
+                    "label": "trust",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "I order from a local provider who has good quality, and they know me.",
+                  "feeling": {
+                    "label": "comfort",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But I feel like I should be searching for more competitive options sometimes.",
+                  "feeling": {
+                    "label": "doubt",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "I really like Alpro — it’s super popular among my customers and their quality is solid. I also go with a local supplier because they know my business, which is comforting. But I do find myself thinking maybe I should expand my search for better, more competitive options every now and then."
+            }
+          },
+          {
+            "transcriptId": "tran005",
+            "question": "How important are plant-based milks — especially oat — in your overall drink offering and customer demand?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Plant-based milks are definitely a staple now at my café.",
+                  "feeling": {
+                    "label": "satisfaction",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "I see a growing demand for oat milk in particular. Everyone seems to love it.",
+                  "feeling": {
+                    "label": "optimism",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "But I also worry, will it be enough to keep the café afloat?",
+                  "feeling": {
+                    "label": "anxiety",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Plant-based milks have really become a staple at my café, especially oat milk. The demand for it is growing, and that makes me feel great, honestly. Still, I worry sometimes — will it be enough to keep the café afloat and keep my customers happy?"
+            }
+          },
+          {
+            "transcriptId": "tran006",
+            "question": "What factors are most important to you when choosing a supplier for vegan milk — price, reliability, brand, delivery speed, etc.?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Reliability comes first; I need to know I can count on them.",
+                  "feeling": {
+                    "label": "certainty",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "Then, of course, price matters, especially now.",
+                  "feeling": {
+                    "label": "concern",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But brand reputation is also something I consider. Can I trust them?",
+                  "feeling": {
+                    "label": "doubt",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "When I choose a supplier for vegan milk, reliability is the top priority — I have to know I can count on them. Price is also super important, especially in this economy. I do consider their brand reputation too. Can I really trust them to deliver what they promise?"
+            }
+          },
+          {
+            "transcriptId": "tran007",
+            "question": "If Danone offered a direct ordering platform for Alpro products, would that be something you’d consider? Why or why not?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "A direct platform could simplify things a lot for me.",
+                  "feeling": {
+                    "label": "hope",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But I’m hesitant; will it come with trade-offs?",
+                  "feeling": {
+                    "label": "caution",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "In the end, it could save me time. I should really look into it.",
+                  "feeling": {
+                    "label": "curiosity",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "If Danone had a direct ordering platform for Alpro, I’d definitely consider it. It could make things so much easier for me. But I can’t help but feel a bit cautious — are there any trade-offs that I might not be aware of? Still, I’m curious about how that could save me time and effort."
+            }
+          },
+          {
+            "transcriptId": "tran008",
+            "question": "In what kind of situation would you seriously consider switching from your current supplier to ordering directly from a brand like Danone?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "If I hit a major snag with my current suppliers, I’d be open.",
+                  "feeling": {
+                    "label": "openness",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "I think I’d consider it if I wasn’t getting steady stock, or if prices jumped.",
+                  "feeling": {
+                    "label": "concern",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "It’s a tricky balance; I don’t want to lose my personal connections.",
+                  "feeling": {
+                    "label": "conflicted",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "If I hit a major snag with my current suppliers that I can’t work around, I’d seriously think about switching. Especially if my stock is unstable or prices go up too much. But it’s a tricky balance because I don’t want to lose those personal connections I’ve built."
+            }
+          },
+          {
+            "transcriptId": "tran009",
+            "question": "What suggestions would you have for a brand looking to launch a direct-to-café ordering platform?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Ease of use is a big one for me; it’s got to be straightforward.",
+                  "feeling": {
+                    "label": "determination",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "Fair pricing is essential — it has to make sense for my business.",
+                  "feeling": {
+                    "label": "sense of justice",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "And maybe some personal touches to keep that connection — that’s key.",
+                  "feeling": {
+                    "label": "hope",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "First, the platform needs to be super easy to use; I don’t have time for anything complicated! Fair pricing is a must too — it’s got to make sense for my business! And I really think they should keep that personal touch, something to maintain that connection. That’s what really matters."
+            }
+          }
+        ]
+      },
+      {
+        "user_id": "75c2f427-e869-48b7-9e0c-7fecf2600149",
+        "project_id": "3a3c6d81-4cbd-4a5b-9a3a-82a2e89d7a6b",
+        "research_id": "f2d67ea5-5c2c-468a-95ad-1a7d5746a80f",
+        "persona_id": "002",
+        "name": "Jürgen Schneider",
+        "age": "53",
+        "profession": "Cafe Manager",
+        "transcripts": [
+          {
+            "transcriptId": "tran001",
+            "question": "Tell me about how you currently handle procurement for your café — who do you order from, and how often?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I've been dealing with the same folks for years, I'm not keen on switching things up.",
+                  "feeling": {
+                    "label": "contentment",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "But sometimes I think about how much could be improved if I explored other options.",
+                  "feeling": {
+                    "label": "doubt",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I primarily order from local suppliers I've trusted for years. I prefer to keep things simple, ordering every couple of weeks. But, to be honest, I sometimes wonder if I’m missing out by sticking to the same people. Change isn’t my forte, you know?"
+            }
+          },
+          {
+            "transcriptId": "tran002",
+            "question": "How many different suppliers or channels do you typically use to order beverages like plant-based milks?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Just a couple, really. Too many suppliers would give me a headache.",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "But then again, should I diversify? Ugh, the thought of that stress…",
+                  "feeling": {
+                    "label": "anxiety",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I tend to keep it simple with just two suppliers for plant-based milks. I like to avoid too many channels—it makes things chaotic, but sometimes I feel like I should be getting more competitive."
+            }
+          },
+          {
+            "transcriptId": "tran003",
+            "question": "At what point does managing multiple procurement channels become too much? What’s your personal limit?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I'd say if I added just one more supplier, I'd start losing sleep.",
+                  "feeling": {
+                    "label": "overwhelm",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But isn't it a bit silly to be afraid of a bit of change? Maybe I should challenge myself.",
+                  "feeling": {
+                    "label": "hope",
+                    "intensity": 2
+                  }
+                }
+              ],
+              "response": "Honestly, if there was any more than three channels I’d probably just give up and scream. My limit is two. I know that sounds limiting, but it just keeps my mind clear."
+            }
+          },
+          {
+            "transcriptId": "tran004",
+            "question": "Which specific suppliers or platforms do you currently use to buy plant-based milks like Alpro? Why them?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I go for Alpro because it’s reliable, and customers expect it these days.",
+                  "feeling": {
+                    "label": "satisfaction",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "But sometimes I wonder if I should be looking for something more local or sustainable.",
+                  "feeling": {
+                    "label": "guilt",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I order Alpro; it's a solid choice and the customers love it. I know it'll always meet their expectations. But I can't shake off that nagging feeling... should I be supporting something more local?"
+            }
+          },
+          {
+            "transcriptId": "tran005",
+            "question": "How important are plant-based milks — especially oat — in your overall drink offering and customer demand?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Oat milk has really taken off, I can't ignore that.",
+                  "feeling": {
+                    "label": "surprise",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "It feels like I’m adapting, but it’s still so foreign to me!",
+                  "feeling": {
+                    "label": "confusion",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "Plant-based milks are crucial now, oat especially! They draw in a crowd I wouldn't want to miss. It's just wild how fast the coffee scene is shifting, and I’m here fumbling with a typewriter."
+            }
+          },
+          {
+            "transcriptId": "tran006",
+            "question": "What factors are most important to you when choosing a supplier for vegan milk — price, reliability, brand, delivery speed, etc.?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Reliability is key; I need my orders to come through without a hitch.",
+                  "feeling": {
+                    "label": "determination",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "But a good price definitely helps... yet I can’t compromise quality.",
+                  "feeling": {
+                    "label": "conflict",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Reliability is paramount for me when it comes to suppliers. I can't afford outages! But I also have to keep an eye on the price, which is a tightrope walk. You want quality and a decent price, right?"
+            }
+          },
+          {
+            "transcriptId": "tran007",
+            "question": "If Danone offered a direct ordering platform for Alpro products, would that be something you’d consider? Why or why not?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "A direct platform would be nice, make things easier, perhaps?",
+                  "feeling": {
+                    "label": "curiosity",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "But what if it's just another digital hassle? I’m wary of things that sound too good.",
+                  "feeling": {
+                    "label": "skepticism",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "A direct ordering platform from Danone for Alpro? Hmm, part of me thinks it might make life easier, but I can’t shake the feeling it could also be just another digital mess. I really don’t know."
+            }
+          },
+          {
+            "transcriptId": "tran008",
+            "question": "In what kind of situation would you seriously consider switching from your current supplier to ordering directly from a brand like Danone?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "If the price were right, I'd have to think hard.",
+                  "feeling": {
+                    "label": "consideration",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "But I’m not ready to jump ship just because it's shiny. Trust is earned!",
+                  "feeling": {
+                    "label": "resolved",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I’d need a solid reason, like a better price or reliable delivery, before I’d switch to Danone. I’m not keen on leaving my trusted suppliers without good reason... shiny new things don’t always mean improvement."
+            }
+          },
+          {
+            "transcriptId": "tran009",
+            "question": "What suggestions would you have for a brand looking to launch a direct-to-café ordering platform?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Keep it simple; take it from someone who hates tech!",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But they need to offer something that makes my life easier, not harder.",
+                  "feeling": {
+                    "label": "hope",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "They really need to keep it simple, please! If they overcomplicate things, I won’t even bother. They should focus on saving us time, not adding more stress. I'm all about the practical side of things, not the frills."
+            }
+          }
+        ]
+      },
+      {
+        "user_id": "75c2f427-e869-48b7-9e0c-7fecf2600149",
+        "project_id": "3a3c6d81-4cbd-4a5b-9a3a-82a2e89d7a6b",
+        "research_id": "f2d67ea5-5c2c-468a-95ad-1a7d5746a80f",
+        "persona_id": "003",
+        "name": "Alex Fischer",
+        "age": "38",
+        "profession": "Cafe Owner",
+        "transcripts": [
+          {
+            "transcriptId": "tran001",
+            "question": "Tell me about how you currently handle procurement for your café — who do you order from, and how often?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I need to keep everything fresh and unique for my customers.",
+                  "feeling": {
+                    "label": "anticipation",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "It’s a bit overwhelming, juggling multiple suppliers just to provide variety.",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But it's worth it to support local businesses and maintain quality.",
+                  "feeling": {
+                    "label": "satisfaction",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Right now, I work with a handful of suppliers, mostly local. I order twice a week to keep things fresh. It can feel like a bit of chaos sometimes. I want to offer the best, but keeping track of everyone is a challenge."
+            }
+          },
+          {
+            "transcriptId": "tran002",
+            "question": "How many different suppliers or channels do you typically use to order beverages like plant-based milks?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I think I have about four or five different sources for plant-based milks.",
+                  "feeling": {
+                    "label": "overwhelm",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "It's great to have options, but also kind of stressful to manage.",
+                  "feeling": {
+                    "label": "conflicted",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "I usually have around four to five suppliers for plant-based milks. I like the variety, but honestly, it gets a bit overwhelming keeping track of it all."
+            }
+          },
+          {
+            "transcriptId": "tran003",
+            "question": "At what point does managing multiple procurement channels become too much? What’s your personal limit?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "When I start forgetting who I need to order from next, that’s my red flag.",
+                  "feeling": {
+                    "label": "stress",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "I’ve got to find a better system, or I’ll lose my mind.",
+                  "feeling": {
+                    "label": "desperation",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Honestly, my limit is when I can’t keep up with who’s due for a restock. If I start losing track, that’s when it feels like too much. I don’t want to let my customers down."
+            }
+          },
+          {
+            "transcriptId": "tran004",
+            "question": "Which specific suppliers or platforms do you currently use to buy plant-based milks like Alpro? Why them?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I usually go with local distributors who I know can get me good products.",
+                  "feeling": {
+                    "label": "trust",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "I have a couple big names, but I like the local guys for the personal touch.",
+                  "feeling": {
+                    "label": "contentment",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I mostly source from local distributors. They get me the good stuff, like Alpro, and I trust them. Plus, I enjoy building those relationships. Local vibes, you know?"
+            }
+          },
+          {
+            "transcriptId": "tran005",
+            "question": "How important are plant-based milks — especially oat — in your overall drink offering and customer demand?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Oat milk is a game changer for lots of our customers.",
+                  "feeling": {
+                    "label": "enthusiasm",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "I really need to ensure we have enough variety in our milk options.",
+                  "feeling": {
+                    "label": "determination",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Oat milk has been huge for us. It’s a must-have on our menu, especially with the demand shifting towards more plant-based options. I feel pumped about how it brings more customers in."
+            }
+          },
+          {
+            "transcriptId": "tran006",
+            "question": "What factors are most important to you when choosing a supplier for vegan milk — price, reliability, brand, delivery speed, etc.?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Reliability is big for me. If they don’t deliver on time, the whole game changes.",
+                  "feeling": {
+                    "label": "urgency",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "I also care about having a good relationship with my suppliers.",
+                  "feeling": {
+                    "label": "satisfaction",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "For me, reliability is number one. If my supplier can’t keep up with deliveries, it throws everything off. I also really value having a solid relationship with the people I work with."
+            }
+          },
+          {
+            "transcriptId": "tran007",
+            "question": "If Danone offered a direct ordering platform for Alpro products, would that be something you’d consider? Why or why not?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "It could save me time, which I definitely need.",
+                  "feeling": {
+                    "label": "hope",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But I’d worry about losing touch with those local relationships I value.",
+                  "feeling": {
+                    "label": "anxiety",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I’d consider it if Danone had a direct platform. It could make things easier, but I’d be a bit anxious about losing that personal touch with my suppliers. I really appreciate those connections."
+            }
+          },
+          {
+            "transcriptId": "tran008",
+            "question": "In what kind of situation would you seriously consider switching from your current supplier to ordering directly from a brand like Danone?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "If my current suppliers keep slipping on delivery, I might have to rethink things.",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "But I’d still hesitate, because it’s about more than just the product for me.",
+                  "feeling": {
+                    "label": "confusion",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "I’d think seriously about switching if I’m constantly dealing with late deliveries. But there’s still that hesitation because it’s not just about getting the product; it’s about the relationships I have built too."
+            }
+          },
+          {
+            "transcriptId": "tran009",
+            "question": "What suggestions would you have for a brand looking to launch a direct-to-café ordering platform?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Make it user-friendly! If it’s complicated, I just won’t use it.",
+                  "feeling": {
+                    "label": "determination",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "It should also support local cafes; we need that connection.",
+                  "feeling": {
+                    "label": "passion",
+                    "intensity": 5
+                  }
+                }
+              ],
+              "response": "Make it easy to use! If it feels cumbersome, who has time for that? Plus, support local cafes in some way; that connection is so crucial for us."
+            }
+          }
+        ]
+      },
+      {
+        "user_id": "75c2f427-e869-48b7-9e0c-7fecf2600149",
+        "project_id": "3a3c6d81-4cbd-4a5b-9a3a-82a2e89d7a6b",
+        "research_id": "f2d67ea5-5c2c-468a-95ad-1a7d5746a80f",
+        "persona_id": "004",
+        "name": "Petra Weber",
+        "age": "55",
+        "profession": "Cafe Manager",
+        "transcripts": [
+          {
+            "transcriptId": "tran001",
+            "question": "Tell me about how you currently handle procurement for your café — who do you order from, and how often?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I usually order from a couple of trusted local suppliers, but sometimes I'm anxious about whether it's enough.",
+                  "feeling": {
+                    "label": "anxiety",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "It's like a balancing act, trying to keep everything fresh and stocked without overwhelming myself.",
+                  "feeling": {
+                    "label": "frustration",
+                    "intensity": 2
+                  }
+                },
+                {
+                  "thought": "I order weekly, but sometimes I wish I could just simplify the whole process.",
+                  "feeling": {
+                    "label": "longing",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "Well, I usually order from a few local suppliers, and I do that about once a week. It feels like I’m juggling a lot sometimes, trying to keep everything fresh without stressing myself out too much. I really long for a smoother process."
+            }
+          },
+          {
+            "transcriptId": "tran002",
+            "question": "How many different suppliers or channels do you typically use to order beverages like plant-based milks?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I think I use maybe three or four different suppliers, but it can get overwhelming.",
+                  "feeling": {
+                    "label": "overwhelm",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "Each has its strengths, but managing them can take a toll on my energy.",
+                  "feeling": {
+                    "label": "exhaustion",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "Oh, I use around three or four suppliers for plant-based milks. It can be a bit overwhelming sometimes; I mean, they each have their own strengths, but managing all that can drain my energy."
+            }
+          },
+          {
+            "transcriptId": "tran003",
+            "question": "At what point does managing multiple procurement channels become too much? What’s your personal limit?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I think it becomes too much when I can’t keep track of orders or when I feel rushed.",
+                  "feeling": {
+                    "label": "stress",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "Sometimes I just want to simplify and focus on what matters instead of feeling lost in paperwork.",
+                  "feeling": {
+                    "label": "yearning",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "I really hit my limit when I can’t keep track of everything anymore—like when I feel rushed or buried in paperwork. I’d much rather simplify things and focus on the cafe experience instead of getting lost in it all."
+            }
+          },
+          {
+            "transcriptId": "tran004",
+            "question": "Which specific suppliers or platforms do you currently use to buy plant-based milks like Alpro? Why them?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I generally stick to suppliers that I trust, like local distributors who have been around for a while.",
+                  "feeling": {
+                    "label": "trust",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "But sometimes, I wonder if I'm missing out on better deals elsewhere.",
+                  "feeling": {
+                    "label": "doubt",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "I typically go for suppliers I trust, like some local distributors because I appreciate their reliability. But I do sometimes wonder if I might be missing out on better deals from others."
+            }
+          },
+          {
+            "transcriptId": "tran005",
+            "question": "How important are plant-based milks — especially oat — in your overall drink offering and customer demand?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Plant-based milks are super popular with our customers, especially oat milk. It’s become a staple.",
+                  "feeling": {
+                    "label": "satisfaction",
+                    "intensity": 5
+                  }
+                },
+                {
+                  "thought": "It feels good to offer products that align with changing preferences, but I worry about keeping up.",
+                  "feeling": {
+                    "label": "concern",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "They’re really important! Oat milk is a huge hit among our customers and it feels great to offer choices that reflect their tastes. But I do have this concern about keeping up with all the demand, you know?"
+            }
+          },
+          {
+            "transcriptId": "tran006",
+            "question": "What factors are most important to you when choosing a supplier for vegan milk — price, reliability, brand, delivery speed, etc.?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "Price is definitely a factor, but I need reliability just as much.",
+                  "feeling": {
+                    "label": "prioritization",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "I also look for brands that resonate with my values, and good delivery speed helps too.",
+                  "feeling": {
+                    "label": "alignment",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "Honestly, price is important, but I think reliability is right up there with it. I also lean towards brands that reflect my own values, and it’s a plus when delivery is quick, of course."
+            }
+          },
+          {
+            "transcriptId": "tran007",
+            "question": "If Danone offered a direct ordering platform for Alpro products, would that be something you’d consider? Why or why not?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "A platform from Danone sounds convenient, but I also wonder about the implications.",
+                  "feeling": {
+                    "label": "curiosity",
+                    "intensity": 3
+                  }
+                },
+                {
+                  "thought": "Part of me is hesitant about switching from my current suppliers because I appreciate our relationships.",
+                  "feeling": {
+                    "label": "apprehension",
+                    "intensity": 4
+                  }
+                }
+              ],
+              "response": "I mean, a direct ordering platform from Danone could make things easier, but I do wonder about what that means for my relationships with my current suppliers. I feel a bit apprehensive about making a switch."
+            }
+          },
+          {
+            "transcriptId": "tran008",
+            "question": "In what kind of situation would you seriously consider switching from your current supplier to ordering directly from a brand like Danone?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I'd consider switching if the pricing was significantly better, or if they offered something my current suppliers don’t.",
+                  "feeling": {
+                    "label": "openness",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "However, I still wouldn’t want to rush into that without thinking it through.",
+                  "feeling": {
+                    "label": "caution",
+                    "intensity": 3
+                  }
+                }
+              ],
+              "response": "I’d definitely consider it if the pricing was a lot better or if they had something unique that my current suppliers don’t. But I wouldn’t want to rush into that; it’s important to think it through first."
+            }
+          },
+          {
+            "transcriptId": "tran009",
+            "question": "What suggestions would you have for a brand looking to launch a direct-to-café ordering platform?",
+            "answer": {
+              "moments": [
+                {
+                  "thought": "I think it’s essential to have user-friendly features and clear communication.",
+                  "feeling": {
+                    "label": "clarity",
+                    "intensity": 4
+                  }
+                },
+                {
+                  "thought": "Also, building trust and relationships with café owners will go a long way.",
+                  "feeling": {
+                    "label": "hope",
+                    "intensity": 5
+                  }
+                }
+              ],
+              "response": "For a brand launching a direct-to-café platform, I think user-friendliness and clear communication are key. And honestly, fostering trust and building relationships with café owners is really important; it can make all the difference."
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
